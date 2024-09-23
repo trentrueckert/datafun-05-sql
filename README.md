@@ -20,3 +20,9 @@ git commit
 git push
 git pull
 ```
+
+## Install packages using requirements.txt
+```
+pandas
+pyarrow
+```

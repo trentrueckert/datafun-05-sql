@@ -18,4 +18,5 @@ Project 5 integrates Python and SQL, focusing on database interactions using SQL
 git add .
 git commit
 git push
+git pull
 ```

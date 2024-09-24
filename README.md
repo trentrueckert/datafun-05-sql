@@ -26,3 +26,8 @@ git pull
 pandas
 pyarrow
 ```
+
+## Next Steps
+
+* Create a folder called 'data'
+* Create and add data to two CSVs: authors.csv and books.csv

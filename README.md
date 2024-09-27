@@ -31,3 +31,9 @@ pyarrow
 
 * Create a folder called 'data'
 * Create and add data to two CSVs: authors.csv and books.csv
+
+## Initialize the Database
+
+* Create a Python file called book_manager.py
+* Create a folder called sql
+* Create a file called create_tables.sql

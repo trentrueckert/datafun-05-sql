@@ -1,0 +1,72 @@
+2024-09-27 21:33:05,001 - INFO - Program started
+2024-09-27 21:33:05,020 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 21:33:05,020 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,028 - ERROR - Error executing SQL from sql\insert_records.sql: near "(": syntax error
+2024-09-27 21:33:05,028 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,034 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 21:33:05,034 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,041 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-27 21:33:05,042 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,050 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 21:33:05,051 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,059 - INFO - Executed SQL from sql\query_join.sql
+2024-09-27 21:33:05,059 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,067 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-27 21:33:05,067 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,079 - INFO - Executed SQL from sql\update_records.sql
+2024-09-27 21:33:05,080 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:05,080 - INFO - Program ended
+2024-09-27 21:33:24,191 - INFO - Program started
+2024-09-27 21:33:24,206 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 21:33:24,206 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,208 - ERROR - Error executing SQL from sql\insert_records.sql: near "(": syntax error
+2024-09-27 21:33:24,208 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,209 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 21:33:24,209 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,210 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-27 21:33:24,210 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,211 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 21:33:24,212 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,213 - INFO - Executed SQL from sql\query_join.sql
+2024-09-27 21:33:24,213 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,214 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-27 21:33:24,214 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,218 - INFO - Executed SQL from sql\update_records.sql
+2024-09-27 21:33:24,219 - DEBUG - execute_sql_from_file
+2024-09-27 21:33:24,219 - INFO - Program ended
+2024-09-27 21:37:33,863 - INFO - Program started
+2024-09-27 21:37:33,878 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 21:37:33,879 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,894 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-27 21:37:33,895 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,897 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 21:37:33,897 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,897 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-27 21:37:33,898 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,898 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 21:37:33,898 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,899 - INFO - Executed SQL from sql\query_join.sql
+2024-09-27 21:37:33,899 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,901 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-27 21:37:33,901 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,904 - INFO - Executed SQL from sql\update_records.sql
+2024-09-27 21:37:33,904 - DEBUG - execute_sql_from_file
+2024-09-27 21:37:33,905 - INFO - Program ended
+2024-09-27 21:41:31,098 - INFO - Program started
+2024-09-27 21:41:31,117 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 21:41:31,117 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,133 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-27 21:41:31,133 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,137 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 21:41:31,138 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,139 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-27 21:41:31,139 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,139 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 21:41:31,140 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,141 - INFO - Executed SQL from sql\query_join.sql
+2024-09-27 21:41:31,141 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,143 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-27 21:41:31,143 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,147 - INFO - Executed SQL from sql\update_records.sql
+2024-09-27 21:41:31,147 - DEBUG - execute_sql_from_file
+2024-09-27 21:41:31,147 - INFO - Program ended

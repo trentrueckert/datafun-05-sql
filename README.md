@@ -56,6 +56,7 @@ These are used for querying the database
     * query_join.sql
     * query_sorting.sql
     * update_records.sql
+    
 ![alt text](image.png)
 
 ## Schema Overview
